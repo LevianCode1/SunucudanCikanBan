@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "delay": "^5.0.0",
+    "discord-autorole-badges": "^2.0.1",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "parse-ms": "^2.1.0",
+    "wio.db": "^4.0.15"
+  }
+}
